@@ -17,7 +17,7 @@ cd ./src/
 java  -Xms128m -Xmx512m Main
 ```
 
-This program include a parser for DELA Dictionnary,  [see here](infolingu.univ-mlv.fr/DonneesLinguistiques/Dictionnaires/telechargement.html) for more information.
+This program include a parser for DELA Dictionary,  [see here](infolingu.univ-mlv.fr/DonneesLinguistiques/Dictionnaires/telechargement.html) for more information.
 
 It also includes a monitor for checking results (using grep).
 
