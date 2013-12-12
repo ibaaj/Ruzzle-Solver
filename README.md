@@ -25,6 +25,8 @@ It can generate csv statistics.
 
 Project for L3 Maths-Info @ Paris Diderot University
 
+Licence MIT
+
 
 
 
